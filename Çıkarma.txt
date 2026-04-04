@@ -1,0 +1,7 @@
+def çıkarma():
+	a=100
+	b=51
+	c=a-b
+	print(c)
+if __name__== '__main__':
+	çıkarma()
