@@ -1,0 +1,7 @@
+def bölme():
+	a=49
+	b=7
+	c=a/b
+	print(c)
+if __name__== 'main__':
+	bölme()
