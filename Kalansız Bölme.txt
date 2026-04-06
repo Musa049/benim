@@ -1,0 +1,7 @@
+def kalansiz bolme():
+	a=8
+	b=3
+	c=a//b
+	print(c)
+if __name__== '__main__':
+	kalansiz bolme()
